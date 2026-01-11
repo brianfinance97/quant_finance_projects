@@ -8,14 +8,14 @@ Evaluate whether a dynamic equity exposure strategy based on volatility targetin
 ## H₀ (Null Hypothesis)
 Maximum drawdown of the Nifty 50 does not differ between a dynamic equity exposure strategy based on volatility targeting & volatility mispricing regimes and a static buy-and-hold exposure.  
 
-$H_0:\ \max(DD_{\text{dynamic}}) = \max(DD_{\text{buy&hold}})$  
+$H_0:\ \max(DD_{\text{dynamic}}) = \max(DD_{\text{buy - hold}})$  
 
 ---
 
 ## H₁ (Alternative Hypothesis)
 Maximum drawdown of the Nifty 50 is lower under a dynamic equity exposure strategy based on volatility targeting & volatility mispricing regimes compared to a static buy-and-hold exposure.  
 
-$H_1:\ \max(DD_{\text{dynamic}}) < \max(DD_{\text{buy&hold}})$
+$H_1:\ \max(DD_{\text{dynamic}}) < \max(DD_{\text{buy - hold}})$
 
 ---
 
